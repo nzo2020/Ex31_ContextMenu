@@ -21,6 +21,7 @@ public class result_activity extends AppCompatActivity implements AdapterView.On
     String[] terms = new String[20];
     Intent intentBack;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -22,6 +22,7 @@ public class result_activity extends AppCompatActivity implements AdapterView.On
     Intent intentBack;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
